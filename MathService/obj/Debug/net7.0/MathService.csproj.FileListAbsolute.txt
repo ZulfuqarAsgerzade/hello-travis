@@ -1,0 +1,12 @@
+C:\Users\asger\OneDrive\Desktop\Test\MathService\bin\Debug\net7.0\MathService.deps.json
+C:\Users\asger\OneDrive\Desktop\Test\MathService\bin\Debug\net7.0\MathService.dll
+C:\Users\asger\OneDrive\Desktop\Test\MathService\bin\Debug\net7.0\MathService.pdb
+C:\Users\asger\OneDrive\Desktop\Test\MathService\obj\Debug\net7.0\MathService.csproj.AssemblyReference.cache
+C:\Users\asger\OneDrive\Desktop\Test\MathService\obj\Debug\net7.0\MathService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asger\OneDrive\Desktop\Test\MathService\obj\Debug\net7.0\MathService.AssemblyInfoInputs.cache
+C:\Users\asger\OneDrive\Desktop\Test\MathService\obj\Debug\net7.0\MathService.AssemblyInfo.cs
+C:\Users\asger\OneDrive\Desktop\Test\MathService\obj\Debug\net7.0\MathService.csproj.CoreCompileInputs.cache
+C:\Users\asger\OneDrive\Desktop\Test\MathService\obj\Debug\net7.0\MathService.dll
+C:\Users\asger\OneDrive\Desktop\Test\MathService\obj\Debug\net7.0\refint\MathService.dll
+C:\Users\asger\OneDrive\Desktop\Test\MathService\obj\Debug\net7.0\MathService.pdb
+C:\Users\asger\OneDrive\Desktop\Test\MathService\obj\Debug\net7.0\ref\MathService.dll
